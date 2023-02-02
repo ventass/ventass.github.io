@@ -1,0 +1,7 @@
+.hero{
+    background-image: url(../img/law.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 200%;
+    color: aliceblue;
+}
